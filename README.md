@@ -1,5 +1,5 @@
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Le-Roi777)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=Le-Roi777) -->
 
 [![@leroi's Holopin board](https://holopin.me/leroi)](https://holopin.io/@leroi)
 
