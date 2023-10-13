@@ -1,7 +1,5 @@
-### Hi there 👋
-<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=Le-Roi777) -->
 
-<a href="https://app.daily.dev/LeRoi"><img src="https://github.com/Le-Roi777/Le-Roi777/blob/main/devcard.svg" width="400" alt="Le-Roi's Dev Card"/></a>
+![Profile View Counter](https://komarev.com/ghpvc/?username=Le-Roi777)
 
 [![@leroi's Holopin board](https://holopin.me/leroi)](https://holopin.io/@leroi)
 
