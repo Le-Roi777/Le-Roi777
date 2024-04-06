@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/leroi"><img src="./devcard.png?type=default&r=npd" width="356" alt="Le-Roi's Dev Card"/></a>
 <!--
 **Le-Roi777/Le-Roi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
