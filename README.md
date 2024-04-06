@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="./devcard.png" width="356" alt="Le-Roi's Dev Card"/>
 
