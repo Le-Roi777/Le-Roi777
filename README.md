@@ -1,6 +1,7 @@
 ### Hi there 👋
+
 <img src="./devcard.png" width="356" alt="Le-Roi's Dev Card"/>
-![](https://komarev.com/ghpvc/username=Le-Roi777)
+
 <!--
 **Le-Roi777/Le-Roi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
